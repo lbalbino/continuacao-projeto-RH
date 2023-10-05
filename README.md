@@ -1,8 +1,8 @@
 # continuacao-projeto-RH
 
+```java
 import java.util.Scanner;
 
-```java
 public class Principal {
 
     public static void main(String[] args) {
